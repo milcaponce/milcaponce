@@ -5,7 +5,6 @@ Soy Milca Ponce
 🔧 Herramientas: VS Code, Git, GitHub 
 💡 Interesada en construir soluciones web accesibles y funcionales 
 🌍 Vivo en Oviedo, Asturias 
-✉️ Contacto: milcaponce.dev@gmail.com 
 
 [![Gmail Badge](https://img.shields.io/badge/-milcaponce.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milcaponce.dev@gmail.com)](mailto:milcaponce.dev@gmail.com)
 
